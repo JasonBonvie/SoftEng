@@ -6,3 +6,17 @@
   max-height: 400px;
   overflow: auto;
 }
+.jumbotron {
+    background-color:#ADD8E6 !important; 
+}
+.tableWrapper{
+	background-color: #ADD8E6 !important;
+}
+
+html { 
+        background: url('walpaper.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
