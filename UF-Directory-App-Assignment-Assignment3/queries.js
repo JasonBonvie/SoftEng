@@ -40,7 +40,7 @@ var updatePhelpsLab = function() {
 var retrieveAllListings = function() {
 
   Listing.find({}, function(err, listings) {
-    if (err){ console.log(err);}
+    if (err){ console.log(err);} 
     console.log(listings);
     });
 };
